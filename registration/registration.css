@@ -1,0 +1,33 @@
+body {
+	background-color: azure;
+	font-size: 20px;
+	aheight: 1050px;
+	height: 1050px;
+}
+.strange {
+	background-color: #81c4e3;
+	height: 170px;
+	width: 100%
+}
+.venom{
+	display: flex;
+	flex-direction: column;
+	}
+.venom div {
+	width: 650px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -80px;
+	border: solid;
+	border-width: 8px 0px 0px 0px;
+	border-radius: 7px;
+	border-top-color: lightblue;
+	padding: 2px 5px 10px 8px;
+
+}
+input {
+	border-width: 0px 0px 4px 0px;
+}
+label {margin-top: unset;
+margin-top: 10px;}
